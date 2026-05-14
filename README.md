@@ -29,7 +29,7 @@
 ---
 ## Install
 [Download `IDM.zip`](https://github.com/.../releases/download/Software/IDM.zip)
-
+---
 > Optimized for Windows 10 and Windows 11.
 
 ## Installation

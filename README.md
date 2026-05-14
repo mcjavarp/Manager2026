@@ -14,14 +14,6 @@
 > [!Important]
 > This is a third-party download manager. Use it responsibly and in accordance with applicable laws and website terms of service.
 
-## Key Features
-- Up to 32 simultaneous connections per download
-- Resume capability for interrupted downloads
-- Browser integration (Chrome, Edge, Firefox, etc.)
-- Built-in scheduler and download queue
-- Virus scanning and file integrity check
-- Modern and clean user interface
-- Portable version available
 
 # Screenshot:
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/db06aa0e-96bf-4d4f-b066-cf2178576aa2" />
